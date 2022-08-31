@@ -1,6 +1,6 @@
 body 
 {
-    border-color: blue ;
+    border-color: rgb(11, 11, 182) ;
     text-align: center;
     font-family: 'Arial';
 }
@@ -9,7 +9,9 @@ body
 
 {
     background-color: crimson;
-    color: blueviolet;
+
+    color: palegreen;
+
     margin: 0;
     padding: 0.5em;
 }
