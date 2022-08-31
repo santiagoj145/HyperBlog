@@ -1,6 +1,12 @@
-body 
+body h1 
 {
     border-color: blue ;
     text-align: center;
     font-family: 'Arial';
+}
+
+#cabecera 
+
+{
+    background-color: crimson;
 }

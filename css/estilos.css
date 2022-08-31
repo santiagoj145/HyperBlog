@@ -1,0 +1,15 @@
+body 
+{
+    border-color: blue ;
+    text-align: center;
+    font-family: 'Arial';
+}
+
+#cabecera 
+
+{
+    background-color: crimson;
+    color: black;
+    margin: 0;
+    padding: 0.5em;
+}
