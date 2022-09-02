@@ -1,12 +1,7 @@
-body h1 
-{
-    border-color: blue ;
-    text-align: center;
-    font-family: 'Arial';
+body {
+    font-family: 'Helvetica';
 }
 
-#cabecera 
-
-{
-    background-color: crimson;
+#cabecera {
+    color: blue;
 }
