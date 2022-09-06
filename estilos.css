@@ -1,10 +1,12 @@
-body {
+body h1{
     font-family: 'Helvetica';
+    color: salmon;
+    
 }
 
 #cabecera {
 
 
-    color: rgb(238, 101, 10);
+    color: blue;
 
 }
